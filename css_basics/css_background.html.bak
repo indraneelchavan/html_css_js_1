@@ -1,0 +1,29 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+ <head>
+  <title> Background image </title>
+  <meta name="Generator" content="EditPlus">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <style type="text/css">
+	body{
+		background-color:gray;
+		background-image:url('image.jpg');
+		background-repeat: repeat-x repeat-y;
+		/*background-repeat:no-repeat;*/
+
+		/*background-position:right top;*/
+		/*background:red url('image.jpg') no-repeat right top;
+		/*margin-right:200px;*/
+	}
+  
+  </style>
+ </head>
+
+ <body>
+  
+  <h1>My CSS web page!</h1>
+  <p>Hello World! This is a background image example</p>
+ </body>
+</html>
